@@ -1,0 +1,6 @@
+{
+  "name": "Blick AI",
+  "description": "Unified AI studio for multi-model chat, website building, code debugging, image creation and editing, video animation, text-to-speech, and real-time voice conversations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
